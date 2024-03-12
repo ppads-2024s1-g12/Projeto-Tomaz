@@ -1,5 +1,5 @@
 # Diagrama De Sequencia
 
-O diagrama de sequencia a seguir apresenta a sequencia de interações ao executar avaliação do filme
+O diagrama de sequência a seguir apresenta a sequência de interações ao executar avaliação do filme
 
-![](./DiagramaDeClasseDeProjeto.jpg)
+![](./DiagramaDeSequencia)
